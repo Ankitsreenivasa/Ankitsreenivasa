@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitsreenivasa
+- 👋 Hi, I’m @Ankit_S
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning Front End Web Dev.
 - 📫 How to reach me -> ankit.sreeni@gmail.com
