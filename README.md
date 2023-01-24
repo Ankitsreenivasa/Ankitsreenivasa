@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Currently I'm a college student
-- Pursueing B.E in Computer Science
+- Pursuing B.E in Computer Science
 
 
 <br><br>
