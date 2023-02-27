@@ -64,10 +64,9 @@
 
 - **GitHub Stats**:
 
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsreenivasa&show_icons=true&locale=en&layout=compact" alt="ankitsreenivasa" /></p>
-  <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=ankitsreenivasa&show_icons=true&locale=en" alt="ankitsreenivasa" /></p>
-
-  <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsreenivasa&" alt="ankitsreenivasa" /></p>
+  ![Ankit_S's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsreenivasa&show_icons=true&theme=radical)
+	
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsreenivasa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
     <a href="https://visitcount.itsvg.in">
 
